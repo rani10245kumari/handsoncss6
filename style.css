@@ -337,6 +337,7 @@ a span {
     border-right: 10px solid green;
     border-left: 10px solid orange;
     position: relative;
+    overflow-x: hidden;
 }
 
 .car1 {
